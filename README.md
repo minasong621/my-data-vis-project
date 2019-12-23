@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My data vis project
 
 You can use the [editor on GitHub](https://github.com/minasong621/my-data-vis-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
